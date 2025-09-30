@@ -1,0 +1,10 @@
+﻿Concentration,Land Cover,Median,Standard Error
+<7 mg-N/L,Agricultural,72.585,4.4003
+7-10 mg-N/L,Agricultural,81.459,7.3583
+> 10 mg-N/L,Agricultural,85.72,6.9199
+<7 mg-N/L,Natural Lands,10.55,0.931
+7-10 mg-N/L,Natural Lands,3.447,1.0262
+> 10 mg-N/L,Natural Lands,1.358,0.8726
+<7 mg-N/L,Other,1.733,0.268
+7-10 mg-N/L,Other,1.965,0.946
+> 10 mg-N/L,Other,1.893,0.924

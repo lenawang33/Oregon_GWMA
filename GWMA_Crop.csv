@@ -1,0 +1,951 @@
+﻿Crop Type,Pixels,Year
+Corn,6354900,2008
+Sorghum,1800,2008
+Sweet Corn,18613800,2008
+Mint,2539800,2008
+Barley,23400,2008
+Spring Wheat,4793400,2008
+Winter Wheat,65901600,2008
+Oats,2505600,2008
+Speltz,2700,2008
+Alfalfa,666000,2008
+Other Hay/Non Alfalfa,4248000,2008
+Sugarbeets,2808000,2008
+Dry Beans,5258700,2008
+Potatoes,6300,2008
+Other Crops,2914200,2008
+Misc Vegs & Fruits,219600,2008
+Onions,10800,2008
+Peas,280800,2008
+Caneberries,4500,2008
+Hops,448200,2008
+Herbs,5348700,2008
+Clover/Wildflowers,8740800,2008
+Sod/Grass Seed,495068400,2008
+Fallow/Idle Cropland,3427200,2008
+Cherries,109800,2008
+Peaches,2700,2008
+Apples,6300,2008
+Grapes,65700,2008
+Christmas Trees,649800,2008
+Other Tree Crops,10930500,2008
+Walnuts,8100,2008
+Open Water,20458800,2008
+Developed/Open Space,22768200,2008
+Developed/Low Intensity,46413000,2008
+Developed/Med Intensity,13886100,2008
+Developed/High Intensity,6566400,2008
+Barren,3313800,2008
+Deciduous Forest,671400,2008
+Evergreen Forest,5528700,2008
+Mixed Forest,4059900,2008
+Shrubland,1728000,2008
+Grassland/Pasture,235984500,2008
+Woody Wetlands,55298700,2008
+Herbaceous Wetlands,2515500,2008
+Triticale,3600,2008
+Garlic,422100,2008
+Broccoli,509400,2008
+Peppers,900,2008
+Greens,405000,2008
+Plums,5400,2008
+Strawberries,3600,2008
+Squash,7305300,2008
+Pumpkins,900,2008
+Blueberries,88200,2008
+Cabbage,5400,2008
+Cauliflower,172800,2008
+Radishes,1026900,2008
+Turnips,459900,2008
+Corn,14453100,2009
+Sweet Corn,23469300,2009
+Mint,5159700,2009
+Barley,31500,2009
+Spring Wheat,14583600,2009
+Winter Wheat,60618600,2009
+Oats,3456900,2009
+Rape Seed,5400,2009
+Mustard,18000,2009
+Alfalfa,891000,2009
+Other Hay/Non Alfalfa,4039200,2009
+Buckwheat,12600,2009
+Sugarbeets,5302800,2009
+Dry Beans,6343200,2009
+Potatoes,106200,2009
+Other Crops,4968900,2009
+Misc Vegs & Fruits,26100,2009
+Onions,19800,2009
+Peas,1075500,2009
+Caneberries,185400,2009
+Hops,346500,2009
+Herbs,10482300,2009
+Clover/Wildflowers,12120300,2009
+Sod/Grass Seed,445651200,2009
+Fallow/Idle Cropland,4846500,2009
+Cherries,338400,2009
+Peaches,81900,2009
+Apples,10800,2009
+Grapes,65700,2009
+Christmas Trees,1175400,2009
+Other Tree Crops,10018800,2009
+Walnuts,36000,2009
+Open Water,22914000,2009
+Developed/Open Space,17364600,2009
+Developed/Low Intensity,39438900,2009
+Developed/Med Intensity,13492800,2009
+Developed/High Intensity,6580800,2009
+Barren,1098900,2009
+Deciduous Forest,542700,2009
+Evergreen Forest,5633100,2009
+Mixed Forest,2295900,2009
+Shrubland,2647800,2009
+Grassland/Pasture,250943400,2009
+Woody Wetlands,55630800,2009
+Herbaceous Wetlands,2732400,2009
+Triticale,27000,2009
+Carrots,4500,2009
+Garlic,29700,2009
+Prunes,2700,2009
+Broccoli,855900,2009
+Peppers,43200,2009
+Greens,271800,2009
+Plums,36000,2009
+Strawberries,12600,2009
+Squash,15048900,2009
+Vetch,105300,2009
+Pumpkins,57600,2009
+Blueberries,582300,2009
+Cabbage,18900,2009
+Cauliflower,158400,2009
+Radishes,1123200,2009
+Turnips,121500,2009
+Cranberries,1806300,2009
+Corn,8801100,2010
+Soybeans,232200,2010
+Sweet Corn,15766200,2010
+Mint,7273800,2010
+Barley,37800,2010
+Spring Wheat,10422000,2010
+Winter Wheat,125410500,2010
+Oats,1847700,2010
+Canola,27900,2010
+Rape Seed,20700,2010
+Mustard,900,2010
+Alfalfa,1119600,2010
+Other Hay/Non Alfalfa,5410800,2010
+Camelina,4500,2010
+Sugarbeets,4942800,2010
+Dry Beans,3906000,2010
+Potatoes,86400,2010
+Other Crops,3783600,2010
+Misc Vegs & Fruits,71100,2010
+Onions,35100,2010
+Peas,1156500,2010
+Hops,145800,2010
+Herbs,8034300,2010
+Clover/Wildflowers,15445800,2010
+Sod/Grass Seed,308142900,2010
+Fallow/Idle Cropland,19305000,2010
+Forest,1501200,2010
+Cherries,216000,2010
+Apples,1800,2010
+Grapes,11700,2010
+Christmas Trees,905400,2010
+Other Tree Crops,7724700,2010
+Walnuts,26100,2010
+Wetlands,559800,2010
+Open Water,21147300,2010
+Developed/Open Space,20805300,2010
+Developed/Low Intensity,45728100,2010
+Developed/Med Intensity,13359600,2010
+Developed/High Intensity,6197400,2010
+Barren,1296000,2010
+Deciduous Forest,821700,2010
+Evergreen Forest,3808800,2010
+Mixed Forest,2612700,2010
+Shrubland,1424700,2010
+Grassland/Pasture,319402800,2010
+Woody Wetlands,59011200,2010
+Herbaceous Wetlands,4401000,2010
+Triticale,361800,2010
+Garlic,5400,2010
+Prunes,14400,2010
+Broccoli,73800,2010
+Peppers,766800,2010
+Greens,95400,2010
+Plums,14400,2010
+Strawberries,411300,2010
+Squash,12827700,2010
+Vetch,430200,2010
+Pumpkins,3600,2010
+Blueberries,219600,2010
+Cabbage,10800,2010
+Cauliflower,396900,2010
+Radishes,1941300,2010
+Turnips,150300,2010
+Cranberries,1444500,2010
+Corn,18150300,2011
+Sweet Corn,12305700,2011
+Mint,2477700,2011
+Barley,119700,2011
+Spring Wheat,4834800,2011
+Winter Wheat,123071400,2011
+Rye,9900,2011
+Oats,1817100,2011
+Canola,6300,2011
+Flaxseed,54900,2011
+Rape Seed,80100,2011
+Alfalfa,587700,2011
+Other Hay/Non Alfalfa,12916800,2011
+Sugarbeets,967500,2011
+Dry Beans,2853000,2011
+Potatoes,17100,2011
+Other Crops,5539500,2011
+Misc Vegs & Fruits,9900,2011
+Peas,1211400,2011
+Hops,153000,2011
+Herbs,13383000,2011
+Clover/Wildflowers,12879900,2011
+Sod/Grass Seed,343703700,2011
+Fallow/Idle Cropland,24723900,2011
+Cherries,376200,2011
+Apples,63900,2011
+Grapes,51300,2011
+Christmas Trees,521100,2011
+Other Tree Crops,6756300,2011
+Walnuts,18000,2011
+Open Water,18180900,2011
+Developed/Open Space,21975300,2011
+Developed/Low Intensity,44604900,2011
+Developed/Med Intensity,13325400,2011
+Developed/High Intensity,6230700,2011
+Barren,2896200,2011
+Deciduous Forest,756000,2011
+Evergreen Forest,4441500,2011
+Mixed Forest,6303600,2011
+Shrubland,5027400,2011
+Grassland/Pasture,283374900,2011
+Woody Wetlands,54639900,2011
+Herbaceous Wetlands,3556800,2011
+Triticale,3600,2011
+Garlic,9000,2011
+Prunes,200700,2011
+Broccoli,26100,2011
+Greens,80100,2011
+Plums,1284300,2011
+Strawberries,4500,2011
+Squash,7571700,2011
+Vetch,136800,2011
+Pumpkins,1800,2011
+Blueberries,426600,2011
+Cabbage,596700,2011
+Cauliflower,48600,2011
+Radishes,3094200,2011
+Turnips,281700,2011
+Cranberries,2821500,2011
+Corn,18355500,2012
+Sorghum,155700,2012
+Sweet Corn,18950400,2012
+Mint,3434400,2012
+Barley,27900,2012
+Spring Wheat,1764000,2012
+Winter Wheat,73460700,2012
+Oats,982800,2012
+Flaxseed,900,2012
+Alfalfa,654300,2012
+Other Hay/Non Alfalfa,7408800,2012
+Buckwheat,112500,2012
+Sugarbeets,4687200,2012
+Dry Beans,2309400,2012
+Potatoes,2700,2012
+Other Crops,2616300,2012
+Onions,12600,2012
+Lentils,1611900,2012
+Peas,657000,2012
+Caneberries,2238300,2012
+Herbs,14521500,2012
+Clover/Wildflowers,13244400,2012
+Sod/Grass Seed,362616300,2012
+Fallow/Idle Cropland,16281900,2012
+Cherries,1383300,2012
+Peaches,86400,2012
+Grapes,151200,2012
+Christmas Trees,127800,2012
+Other Tree Crops,12689100,2012
+Walnuts,3600,2012
+Open Water,18945000,2012
+Developed/Open Space,20527200,2012
+Developed/Low Intensity,46598400,2012
+Developed/Med Intensity,13251600,2012
+Developed/High Intensity,5938200,2012
+Barren,2690100,2012
+Deciduous Forest,469800,2012
+Evergreen Forest,2444400,2012
+Mixed Forest,1607400,2012
+Shrubland,872100,2012
+Grassland/Pasture,316094400,2012
+Woody Wetlands,62803800,2012
+Herbaceous Wetlands,5013900,2012
+Triticale,329400,2012
+Garlic,1800,2012
+Broccoli,55800,2012
+Greens,590400,2012
+Plums,18000,2012
+Strawberries,3600,2012
+Squash,9681300,2012
+Vetch,214200,2012
+Blueberries,29700,2012
+Cabbage,2083500,2012
+Radishes,709200,2012
+Turnips,40500,2012
+Corn,11588400,2013
+Sorghum,37800,2013
+Sweet Corn,21727800,2013
+Mint,9395100,2013
+Spring Wheat,1815300,2013
+Winter Wheat,71593200,2013
+Oats,243000,2013
+Flaxseed,26100,2013
+Rape Seed,1800,2013
+Mustard,53100,2013
+Alfalfa,69300,2013
+Other Hay/Non Alfalfa,5486400,2013
+Buckwheat,46800,2013
+Sugarbeets,3438900,2013
+Dry Beans,5194800,2013
+Potatoes,108000,2013
+Other Crops,5590800,2013
+Onions,10800,2013
+Peas,1639800,2013
+Caneberries,2570400,2013
+Hops,131400,2013
+Herbs,15038100,2013
+Clover/Wildflowers,12665700,2013
+Sod/Grass Seed,369846000,2013
+Fallow/Idle Cropland,13972500,2013
+Cherries,88200,2013
+Peaches,75600,2013
+Apples,9900,2013
+Grapes,28800,2013
+Christmas Trees,510300,2013
+Other Tree Crops,15860700,2013
+Walnuts,900,2013
+Open Water,19879200,2013
+Developed/Open Space,20626200,2013
+Developed/Low Intensity,47186100,2013
+Developed/Med Intensity,12766500,2013
+Developed/High Intensity,6282000,2013
+Barren,3282300,2013
+Deciduous Forest,1005300,2013
+Evergreen Forest,3397500,2013
+Mixed Forest,2576700,2013
+Shrubland,2142900,2013
+Grassland/Pasture,307629900,2013
+Woody Wetlands,60471900,2013
+Herbaceous Wetlands,4626900,2013
+Triticale,414900,2013
+Garlic,25200,2013
+Broccoli,162000,2013
+Peppers,11700,2013
+Greens,412200,2013
+Plums,52200,2013
+Squash,4629600,2013
+Vetch,879300,2013
+Pumpkins,570600,2013
+Blueberries,81900,2013
+Cabbage,2700,2013
+Cauliflower,18900,2013
+Radishes,3275100,2013
+Turnips,287100,2013
+Corn,19962900,2014
+Sweet Corn,4784400,2014
+Mint,7580700,2014
+Barley,693000,2014
+Spring Wheat,635400,2014
+Winter Wheat,42335100,2014
+Oats,946800,2014
+Rape Seed,1800,2014
+Alfalfa,1106100,2014
+Other Hay/Non Alfalfa,7636500,2014
+Buckwheat,36000,2014
+Sugarbeets,4721400,2014
+Dry Beans,1168200,2014
+Potatoes,19800,2014
+Other Crops,3596400,2014
+Misc Vegs & Fruits,7200,2014
+Onions,29700,2014
+Peas,1156500,2014
+Caneberries,4639500,2014
+Hops,845100,2014
+Herbs,20136600,2014
+Clover/Wildflowers,14859900,2014
+Sod/Grass Seed,276368400,2014
+Fallow/Idle Cropland,12020400,2014
+Cherries,21600,2014
+Peaches,114300,2014
+Apples,102600,2014
+Grapes,118800,2014
+Christmas Trees,351900,2014
+Other Tree Crops,16732800,2014
+Walnuts,33300,2014
+Open Water,20142000,2014
+Developed/Open Space,19539900,2014
+Developed/Low Intensity,44784900,2014
+Developed/Med Intensity,15571800,2014
+Developed/High Intensity,7298100,2014
+Barren,5178600,2014
+Deciduous Forest,251100,2014
+Evergreen Forest,2489400,2014
+Mixed Forest,1111500,2014
+Shrubland,3680100,2014
+Grassland/Pasture,433606500,2014
+Woody Wetlands,59091300,2014
+Herbaceous Wetlands,3411900,2014
+Triticale,128700,2014
+Garlic,515700,2014
+Broccoli,35100,2014
+Greens,1227600,2014
+Plums,44100,2014
+Strawberries,10800,2014
+Squash,7511400,2014
+Vetch,22500,2014
+Pumpkins,1800,2014
+Blueberries,87300,2014
+Cabbage,68400,2014
+Cauliflower,21600,2014
+Radishes,2964600,2014
+Turnips,2700,2014
+Corn,14706900,2015
+Sweet Corn,17713800,2015
+Mint,4917600,2015
+Barley,27900,2015
+Spring Wheat,1692900,2015
+Winter Wheat,44518500,2015
+Rye,23400,2015
+Oats,2148300,2015
+Speltz,900,2015
+Canola,2700,2015
+Flaxseed,7200,2015
+Alfalfa,474300,2015
+Other Hay/Non Alfalfa,7218900,2015
+Sugarbeets,3317400,2015
+Dry Beans,5369400,2015
+Potatoes,243900,2015
+Other Crops,5609700,2015
+Onions,7200,2015
+Cucumbers,900,2015
+Lentils,41400,2015
+Peas,9028800,2015
+Caneberries,81000,2015
+Hops,65700,2015
+Herbs,23151600,2015
+Clover/Wildflowers,24438600,2015
+Sod/Grass Seed,434136600,2015
+Fallow/Idle Cropland,8025300,2015
+Cherries,213300,2015
+Apples,1800,2015
+Grapes,201600,2015
+Christmas Trees,1079100,2015
+Other Tree Crops,15732000,2015
+Walnuts,1800,2015
+Open Water,21179700,2015
+Developed/Open Space,19622700,2015
+Developed/Low Intensity,46112400,2015
+Developed/Med Intensity,14743800,2015
+Developed/High Intensity,6428700,2015
+Barren,2235600,2015
+Deciduous Forest,665100,2015
+Evergreen Forest,8881200,2015
+Mixed Forest,4657500,2015
+Shrubland,11298600,2015
+Grassland/Pasture,240285600,2015
+Woody Wetlands,50571000,2015
+Herbaceous Wetlands,3739500,2015
+Triticale,603000,2015
+Garlic,149400,2015
+Broccoli,82800,2015
+Peppers,2700,2015
+Greens,211500,2015
+Plums,1800,2015
+Strawberries,97200,2015
+Squash,11829600,2015
+Vetch,99000,2015
+Dbl Crop WinWht/Corn,73800,2015
+Dbl Crop Oats/Corn,9900,2015
+Pumpkins,140400,2015
+Blueberries,879300,2015
+Cabbage,9000,2015
+Cauliflower,4500,2015
+Radishes,2614500,2015
+Turnips,132300,2015
+Corn,8316000,2016
+Sweet Corn,17691300,2016
+Mint,4704300,2016
+Barley,61200,2016
+Spring Wheat,964800,2016
+Winter Wheat,42908400,2016
+Rye,273600,2016
+Oats,4163400,2016
+Canola,67500,2016
+Flaxseed,7200,2016
+Rape Seed,1800,2016
+Mustard,18000,2016
+Alfalfa,54900,2016
+Other Hay/Non Alfalfa,5868900,2016
+Sugarbeets,5310000,2016
+Dry Beans,9522900,2016
+Other Crops,2215800,2016
+Misc Vegs & Fruits,9900,2016
+Onions,140400,2016
+Peas,5291100,2016
+Caneberries,900,2016
+Hops,548100,2016
+Herbs,16887600,2016
+Clover/Wildflowers,19274400,2016
+Sod/Grass Seed,428341500,2016
+Fallow/Idle Cropland,7607700,2016
+Cherries,1800,2016
+Apples,7200,2016
+Grapes,142200,2016
+Christmas Trees,1003500,2016
+Other Tree Crops,36445500,2016
+Open Water,21258900,2016
+Developed/Open Space,19961100,2016
+Developed/Low Intensity,46142100,2016
+Developed/Med Intensity,13779900,2016
+Developed/High Intensity,6676200,2016
+Barren,3290400,2016
+Deciduous Forest,1309500,2016
+Evergreen Forest,7590600,2016
+Mixed Forest,6159600,2016
+Shrubland,9506700,2016
+Grassland/Pasture,236534400,2016
+Woody Wetlands,50760900,2016
+Herbaceous Wetlands,4717800,2016
+Triticale,111600,2016
+Garlic,5400,2016
+Broccoli,37800,2016
+Greens,177300,2016
+Squash,22711500,2016
+Vetch,23400,2016
+Dbl Crop WinWht/Corn,228600,2016
+Pumpkins,1800,2016
+Blueberries,1794600,2016
+Cabbage,34200,2016
+Cauliflower,54900,2016
+Radishes,835200,2016
+Turnips,6300,2016
+Corn,25801200,2017
+Mint,1550700,2017
+Barley,158400,2017
+Spring Wheat,106200,2017
+Winter Wheat,13304700,2017
+Oats,859500,2017
+Canola,337500,2017
+Rape Seed,69300,2017
+Alfalfa,779400,2017
+Other Hay/Non Alfalfa,7897500,2017
+Buckwheat,94500,2017
+Sugarbeets,8835300,2017
+Dry Beans,4201200,2017
+Potatoes,1800,2017
+Other Crops,4155300,2017
+Onions,147600,2017
+Cucumbers,9900,2017
+Peas,2582100,2017
+Caneberries,73800,2017
+Hops,557100,2017
+Herbs,10180800,2017
+Clover/Wildflowers,19975500,2017
+Sod/Grass Seed,448959600,2017
+Fallow/Idle Cropland,1952100,2017
+Cherries,338400,2017
+Grapes,478800,2017
+Christmas Trees,769500,2017
+Other Tree Crops,55579500,2017
+Walnuts,57600,2017
+Open Water,21392100,2017
+Developed/Open Space,19512000,2017
+Developed/Low Intensity,46393200,2017
+Developed/Med Intensity,13868100,2017
+Developed/High Intensity,7052400,2017
+Barren,6331500,2017
+Deciduous Forest,371700,2017
+Evergreen Forest,4608000,2017
+Mixed Forest,1497600,2017
+Shrubland,7218900,2017
+Grassland/Pasture,230296500,2017
+Woody Wetlands,59170500,2017
+Herbaceous Wetlands,11640600,2017
+Triticale,311400,2017
+Garlic,890100,2017
+Broccoli,346500,2017
+Greens,2088900,2017
+Plums,45900,2017
+Squash,15579000,2017
+Pumpkins,3596400,2017
+Blueberries,2478600,2017
+Cabbage,21600,2017
+Cauliflower,18900,2017
+Radishes,6025500,2017
+Turnips,991800,2017
+Corn,22452300,2018
+Mint,2477700,2018
+Barley,52200,2018
+Spring Wheat,462600,2018
+Winter Wheat,15563700,2018
+Rye,119700,2018
+Oats,306000,2018
+Mustard,24300,2018
+Alfalfa,1602000,2018
+Other Hay/Non Alfalfa,9533700,2018
+Buckwheat,2700,2018
+Sugarbeets,4405500,2018
+Dry Beans,6721200,2018
+Potatoes,18000,2018
+Other Crops,3179700,2018
+Misc Vegs & Fruits,5400,2018
+Onions,39600,2018
+Peas,7390800,2018
+Caneberries,69300,2018
+Hops,297900,2018
+Herbs,9358200,2018
+Clover/Wildflowers,27209700,2018
+Sod/Grass Seed,467857800,2018
+Fallow/Idle Cropland,2418300,2018
+Cherries,685800,2018
+Apples,255600,2018
+Grapes,920700,2018
+Christmas Trees,445500,2018
+Other Tree Crops,44242200,2018
+Walnuts,168300,2018
+Pears,87300,2018
+Open Water,21583800,2018
+Developed/Open Space,19462500,2018
+Developed/Low Intensity,45561600,2018
+Developed/Med Intensity,13952700,2018
+Developed/High Intensity,7477200,2018
+Barren,3585600,2018
+Deciduous Forest,317700,2018
+Evergreen Forest,3060000,2018
+Mixed Forest,1015200,2018
+Shrubland,6779700,2018
+Grassland/Pasture,224606700,2018
+Woody Wetlands,61534800,2018
+Herbaceous Wetlands,6673500,2018
+Triticale,69300,2018
+Garlic,1604700,2018
+Broccoli,900,2018
+Greens,5516100,2018
+Plums,107100,2018
+Strawberries,900,2018
+Squash,13316400,2018
+Vetch,26100,2018
+Dbl Crop Oats/Corn,2700,2018
+Pumpkins,720900,2018
+Blueberries,2625300,2018
+Cauliflower,18000,2018
+Radishes,2120400,2018
+Turnips,1449000,2018
+Corn,12388500,2019
+Sweet Corn,9946800,2019
+Mint,7507800,2019
+Barley,17100,2019
+Spring Wheat,2483100,2019
+Winter Wheat,12364200,2019
+Rye,225000,2019
+Oats,2561400,2019
+Canola,13500,2019
+Alfalfa,1196100,2019
+Other Hay/Non Alfalfa,8084700,2019
+Sugarbeets,971100,2019
+Dry Beans,10701900,2019
+Potatoes,4500,2019
+Other Crops,4455900,2019
+Onions,258300,2019
+Chick Peas,113400,2019
+Peas,2545200,2019
+Hops,954000,2019
+Herbs,45900,2019
+Clover/Wildflowers,20334600,2019
+Sod/Grass Seed,389281500,2019
+Fallow/Idle Cropland,1923300,2019
+Cherries,396900,2019
+Apples,250200,2019
+Grapes,853200,2019
+Christmas Trees,255600,2019
+Other Tree Crops,54907200,2019
+Walnuts,117900,2019
+Pears,1800,2019
+Open Water,26085600,2019
+Developed/Open Space,20775600,2019
+Developed/Low Intensity,40624200,2019
+Developed/Med Intensity,15677100,2019
+Developed/High Intensity,7667100,2019
+Barren,2196900,2019
+Deciduous Forest,322200,2019
+Evergreen Forest,5411700,2019
+Mixed Forest,2961900,2019
+Shrubland,5219100,2019
+Grassland/Pasture,322808400,2019
+Woody Wetlands,21760200,2019
+Herbaceous Wetlands,45354600,2019
+Triticale,107100,2019
+Garlic,151200,2019
+Broccoli,9900,2019
+Peppers,42300,2019
+Greens,813600,2019
+Plums,36000,2019
+Strawberries,69300,2019
+Squash,5222700,2019
+Vetch,11700,2019
+Dbl Crop Triticale/Corn,2700,2019
+Pumpkins,48600,2019
+Blueberries,1300500,2019
+Cabbage,1800,2019
+Cauliflower,44100,2019
+Radishes,1346400,2019
+Turnips,329400,2019
+Corn,10033200,2020
+Sorghum,26100,2020
+Sweet Corn,2081700,2020
+Mint,6824700,2020
+Barley,838800,2020
+Spring Wheat,3573900,2020
+Winter Wheat,25647300,2020
+Rye,6300,2020
+Oats,2562300,2020
+Canola,91800,2020
+Mustard,10800,2020
+Alfalfa,936900,2020
+Other Hay/Non Alfalfa,13006800,2020
+Buckwheat,17100,2020
+Sugarbeets,2079000,2020
+Dry Beans,9231300,2020
+Potatoes,345600,2020
+Other Crops,3322800,2020
+Misc Vegs & Fruits,281700,2020
+Onions,185400,2020
+Cucumbers,6300,2020
+Peas,3348000,2020
+Hops,795600,2020
+Herbs,831600,2020
+Clover/Wildflowers,15220800,2020
+Sod/Grass Seed,366658200,2020
+Fallow/Idle Cropland,2433600,2020
+Cherries,299700,2020
+Apples,900,2020
+Grapes,628200,2020
+Christmas Trees,195300,2020
+Other Tree Crops,76863600,2020
+Walnuts,22500,2020
+Pears,6300,2020
+Open Water,28170000,2020
+Developed/Open Space,20619900,2020
+Developed/Low Intensity,40176900,2020
+Developed/Mid Intensity,15975000,2020
+Developed/High Intensity,7521300,2020
+Barren,1794600,2020
+Deciduous Forest,382500,2020
+Evergreen Forest,5271300,2020
+Mixed Forest,2455200,2020
+Shrubland,3531600,2020
+Grassland/Pasture,319257900,2020
+Woody Wetlands,18934200,2020
+Herbaceous Wetlands,49141800,2020
+Triticale,17100,2020
+Carrots,2700,2020
+Garlic,113400,2020
+Peppers,88200,2020
+Greens,130500,2020
+Plums,36900,2020
+Strawberries,48600,2020
+Squash,4113900,2020
+Vetch,1189800,2020
+Dbl Crop Oats/Corn,30600,2020
+Pumpkins,60300,2020
+Blueberries,868500,2020
+Cabbage,2700,2020
+Cauliflower,4500,2020
+Radishes,2389500,2020
+Turnips,687600,2020
+Cranberries,5400,2020
+Corn,11100600,2021
+Sweet Corn,5661900,2021
+Mint,5129100,2021
+Barley,157500,2021
+Spring Wheat,2604600,2021
+Winter Wheat,33696900,2021
+Rye,21600,2021
+Oats,1023300,2021
+Canola,80100,2021
+Alfalfa,393300,2021
+Other Hay/Non Alfalfa,8143200,2021
+Buckwheat,337500,2021
+Sugarbeets,1447200,2021
+Dry Beans,3125700,2021
+Potatoes,21600,2021
+Other Crops,7694100,2021
+Onions,167400,2021
+Peas,2201400,2021
+Hops,1278900,2021
+Herbs,737100,2021
+Clover/Wildflowers,8582400,2021
+Sod/Grass Seed,314315100,2021
+Fallow/Idle Cropland,466200,2021
+Cherries,346500,2021
+Peaches,9000,2021
+Apples,900,2021
+Grapes,449100,2021
+Christmas Trees,165600,2021
+Other Tree Crops,56718000,2021
+Walnuts,27900,2021
+Pears,1800,2021
+Open Water,25808400,2021
+Developed/Open Space,15891300,2021
+Developed/Low Intensity,42262200,2021
+Developed/Med Intensity,25030800,2021
+Developed/High Intensity,11409300,2021
+Barren,1352700,2021
+Deciduous Forest,992700,2021
+Evergreen Forest,7421400,2021
+Mixed Forest,2270700,2021
+Shrubland,1804500,2021
+Grassland/Pasture,409209300,2021
+Woody Wetlands,24539400,2021
+Herbaceous Wetlands,29373300,2021
+Triticale,194400,2021
+Garlic,224100,2021
+Broccoli,9900,2021
+Greens,38700,2021
+Plums,35100,2021
+Strawberries,27000,2021
+Squash,3101400,2021
+Vetch,891900,2021
+Dbl Crop WinWht/Corn,5400,2021
+Pumpkins,476100,2021
+Blueberries,627300,2021
+Cauliflower,734400,2021
+Radishes,912600,2021
+Turnips,812700,2021
+Corn,7203600,2022
+Sorghum,900,2022
+Sunflower,11700,2022
+Sweet Corn,1584900,2022
+Mint,3995100,2022
+Barley,82800,2022
+Spring Wheat,4742100,2022
+Winter Wheat,42773400,2022
+Oats,1412100,2022
+Canola,101700,2022
+Rape Seed,1800,2022
+Mustard,5400,2022
+Alfalfa,176400,2022
+Other Hay/Non Alfalfa,7795800,2022
+Sugarbeets,3463200,2022
+Dry Beans,8698500,2022
+Potatoes,47700,2022
+Other Crops,4480200,2022
+Onions,38700,2022
+Cucumbers,6300,2022
+Peas,1495800,2022
+Hops,1371600,2022
+Herbs,406800,2022
+Clover/Wildflowers,29295900,2022
+Sod/Grass Seed,318807000,2022
+Fallow/Idle Cropland,1312200,2022
+Cherries,378900,2022
+Peaches,8100,2022
+Apples,131400,2022
+Grapes,409500,2022
+Christmas Trees,409500,2022
+Other Tree Crops,52722900,2022
+Walnuts,45000,2022
+Pears,13500,2022
+Open Water,25090200,2022
+Developed/Open Space,15798600,2022
+Developed/Low Intensity,42238800,2022
+Developed/Med Intensity,24717600,2022
+Developed/High Intensity,11449800,2022
+Barren,1251900,2022
+Deciduous Forest,596700,2022
+Evergreen Forest,7357500,2022
+Mixed Forest,2922300,2022
+Shrubland,1624500,2022
+Grassland/Pasture,380222100,2022
+Woody Wetlands,29579400,2022
+Herbaceous Wetlands,25967700,2022
+Triticale,61200,2022
+Garlic,107100,2022
+Broccoli,383400,2022
+Greens,711900,2022
+Plums,13500,2022
+Strawberries,59400,2022
+Squash,2846700,2022
+Vetch,141300,2022
+Dbl Crop Triticale/Corn,1800,2022
+Pumpkins,2465100,2022
+Blueberries,181800,2022
+Cauliflower,534600,2022
+Radishes,1280700,2022
+Turnips,400500,2022
+Corn,12750300,2023
+Sweet Corn,1313100,2023
+Mint,5590800,2023
+Barley,280800,2023
+Spring Wheat,1227600,2023
+Winter Wheat,56608200,2023
+Oats,2185200,2023
+Canola,28800,2023
+Mustard,900,2023
+Alfalfa,497700,2023
+Other Hay/Non Alfalfa,10888200,2023
+Buckwheat,292500,2023
+Sugarbeets,2370600,2023
+Dry Beans,10554300,2023
+Potatoes,6300,2023
+Other Crops,4607100,2023
+Onions,312300,2023
+Cucumbers,24300,2023
+Peas,1689300,2023
+Hops,1040400,2023
+Herbs,900900,2023
+Clover/Wildflowers,26829000,2023
+Sod/Grass Seed,290884500,2023
+Fallow/Idle Cropland,1073700,2023
+Cherries,492300,2023
+Peaches,8100,2023
+Apples,9000,2023
+Grapes,431100,2023
+Christmas Trees,34200,2023
+Other Tree Crops,53982000,2023
+Walnuts,46800,2023
+Pears,4500,2023
+Open Water,26523000,2023
+Developed/Open Space,15815700,2023
+Developed/Low Intensity,41769000,2023
+Developed/Med Intensity,24740100,2023
+Developed/High Intensity,11449800,2023
+Barren,1242900,2023
+Deciduous Forest,629100,2023
+Evergreen Forest,7558200,2023
+Mixed Forest,2363400,2023
+Shrubland,1903500,2023
+Grassland/Pasture,385074900,2023
+Woody Wetlands,24322500,2023
+Herbaceous Wetlands,27223200,2023
+Triticale,95400,2023
+Garlic,510300,2023
+Broccoli,63000,2023
+Greens,468000,2023
+Plums,36900,2023
+Strawberries,63000,2023
+Squash,8828100,2023
+Vetch,59400,2023
+Pumpkins,14400,2023
+Dbl Crop WinWht/Sorghum,7200,2023
+Blueberries,458100,2023
+Cabbage,22500,2023
+Cauliflower,72000,2023
+Radishes,724500,2023
+Turnips,2433600,2023

@@ -1,0 +1,84 @@
+﻿Category,Crop,Low_lbN/acre,High_lbN/acre,Source
+Blueberries,Blueberries,100,260,"Hart et al., 2006b"
+Corn,Corn,120,200,"Gaskell et al., 2008"
+Corn,Sunflower,100,150,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Corn,Sweet Corn,120,200,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Developed,Developed/High Intensity,0,0,"Lin et al., 2019"
+Developed,Developed/Low Intensity,0,0,"Lin et al., 2019"
+Developed,Developed/Med Intensity,0,0,"Lin et al., 2019"
+Developed,Developed/Mid Intensity,0,0,"Lin et al., 2019"
+Developed,Developed/Open Space,0,0,"Lin et al., 2019"
+Fallow,Barren,20,40,"Jia Jia et al., 2019"
+Fallow,Fallow/Idle Cropland,0,0,"Lin et al., 2019"
+Forest,Deciduous Forest,0,0,"Lin et al., 2019"
+Forest,Evergreen Forest,0,0,"Lin et al., 2019"
+Forest,Forest,0,0,"Lin et al., 2019"
+Forest,Mixed Forest,0,0,"Lin et al., 2019"
+Forest,Shrubland,0,0,"Lin et al., 2019"
+Grains,Barley,100,150,"Hart et al., 2009a"
+Grains,Buckwheat,100,150,"Hart et al., 2009a"
+Grains,Dbl Crop Oats/Corn,100,200,Range of Oats and Corn
+Grains,Dbl Crop Triticale/Corn,100,200,Range of Triticale and Corn
+Grains,Dbl Crop WinWht/Corn,100,200,"Hart et al., 2009a"
+Grains,Dbl Crop WinWht/Sorghum,100,150,Range of Crop Winter Wheat and Sorghum
+Grains,Flaxseed,0,80,"Ehrensing, D.T., 2008"
+Grains,Oats,100,150,"Hart et al., 2009a"
+Grains,Rye,100,150,"Hart et al., 2009a"
+Grains,Sorghum,0,100,https://extension.oregonstate.edu/sites/default/files/documents/em8794.pdf
+Grains,Speltz,100,150,"Hart et al., 2009a"
+Grains,Spring Wheat,100,150,"Hart et al., 2009a"
+Grains,Triticale,100,150,"Hart et al., 2009a"
+Grains,Winter Wheat,100,150,"Hart et al., 2009a"
+Grass_Hay,Grassland/Pasture,44,88,"Pirelli et al., 2004"
+Grass_Hay,Other Hay/Non Alfalfa,40,90,"Jia Jia et al., 2019"
+Grass_Hay,Sod/Grass Seed,40,90,https://agsci.oregonstate.edu/sites/agscid7/files/beaverturf/lawns/more-lawn-care-extension-bulletins/ec1278.pdf
+Legumes,Alfalfa,0,0,"Jia Jia et al., 2019"
+Legumes,Chick Peas,50,80,"Mansour et al., 2000"
+Legumes,Dry Beans,50,80,"Mansour et al., 2000"
+Legumes,Lentils,50,80,"Mansour et al., 2000"
+Legumes,Peas,50,80,"Mansour et al., 2000"
+Legumes,Soybeans,50,80,https://www.pioneer.com/us/agronomy/nitrogen_fertilizer_soybean.html
+Legumes,Vetch,0,0,"Hannaway and McGuire, 1982"
+Mint,Mint,175,250,"Hart et al., 2010"
+Misc,Broccoli,150,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Cabbage,150,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Camelina,150,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Caneberries,20,80,"Hart et al., 2006a"
+Misc,Canola,150,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Carrots,120,200,"https://horticulture.oregonstate.edu/oregon-vegetables/carrots-western-oregon-0#:~:text=For%20non%2Dbedded%20plantings%20use,BABY%2DWHOLE%20CARROTS"
+Misc,Cauliflower,150,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Christmas Trees,0,150,"Hart et al., 2009b"
+Misc,Clover/Wildflowers,0,0,https://extension.oregonstate.edu/sites/extd8/files/documents/fg17.pdf
+Misc,Cranberries,40,60,https://extension.oregonstate.edu/sites/extd8/files/documents/em8672.pdf
+Misc,Cucumbers,120,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Garlic,120,200,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Misc,Grapes,0,6,"Jia Jia et al., 2019"
+Misc,Greens,87,120,https://extension.oregonstate.edu/sites/default/files/documents/12281/growinglettuceandgreens0.pdf
+Misc,Herbs,75,150,"https://horticulture.oregonstate.edu/oregon-vegetables/herbs-and-spices-0#:~:text=FERTILIZER&text=Fertilizer%20requirements%20are%20basic%2C%20usually,the%20crop%20and%20soil%20test."
+Misc,Hops,75,150,"Gingrich et al., 2000"
+Misc,Forest,0,0,https://extension.oregonstate.edu/sites/default/files/documents/12281/growinglettuceandgreens0.pdf
+Misc,Misc Vegs & Fruits,0,200,Range of All fruits and vegetables
+Misc,Mustard,150,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Onions,120,200,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Misc,Other Crops,0,200,Range of Fertilizer Applied to all Crops 
+Misc,Other Tree Crops,0,150,"Hart et al., 2009b"
+Misc,Peppers,120,200,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Misc,Potatoes,150,250,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Misc,Radishes,150,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Rape Seed,150,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Strawberries,30,90,"Hart et al., 2000"
+Misc,Sugarbeets,128,200,"Shock et al., 1996"
+Misc,Turnips,150,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,Walnuts,0,101,"https://extension.oregonstate.edu/sites/extd8/files/documents/em9080.pdf, https://extension.oregonstate.edu/sites/extd8/files/documents/em9077.pdf"
+Open_Water,Open Water,0,0,"Jia Jia et al., 2019"
+Orchard Crops,Apples,0,109,"Righetti et al., 1998"
+Orchard Crops,Cherries,0,109,"Righetti et al., 1998"
+Orchard Crops,Peaches,0,109,"Righetti et al., 1998"
+Orchard Crops,Pears,0,109,"Righetti et al., 1998"
+Orchard Crops,Plums,0,109,"Righetti et al., 1998"
+Orchard Crops,Prunes,0,109,"Righetti et al., 1998"
+Squash,Pumpkins,120,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Squash,Squash,120,200,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Wetlands,Herbaceous Wetlands,0,0,"Jia Jia et al., 2019"
+Wetlands,Wetlands,0,0,"Jia Jia et al., 2019"
+Wetlands,Woody Wetlands,0,0,"Jia Jia et al., 2019"

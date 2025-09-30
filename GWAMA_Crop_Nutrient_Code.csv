@@ -1,0 +1,84 @@
+Category,Land_Use,Low_lbN/ha,High_lbN/ha,
+Forest,EVERGREEN.FOREST,0,0,"Lin et al., 2019"
+Forest,EVERGREEN_FOREST,0,0,"Lin et al., 2019"
+Forest,DECIDIOUS.FOREST,0,0,"Lin et al., 2019"
+Forest,DECIDIOUS_FOREST,0,0,"Lin et al., 2019"
+Forest,MIXED_FOREST,0,0,"Lin et al., 2019"
+Forest,FOREST,0,0,"Lin et al., 2019"
+Forest,SHRUBLAND,0,0,"Lin et al., 2019"
+Developed,DEVELOPED.HIGH.INTENSITY,0,0,"Lin et al., 2019"
+Developed,DEVELOPED.LOW.INTENSITY,0,0,"Lin et al., 2019"
+Developed,DEVELOPED.MED.INTENSITY,0,0,"Lin et al., 2019"
+Developed,DEVELOPED.OPEN.SPACE,0,0,"Lin et al., 2019"
+Developed,DEVELOPED_HIGH_INTENSITY,0,0,"Lin et al., 2019"
+Developed,DEVELOPED_LOW_INTENSITY,0,0,"Lin et al., 2019"
+Developed,DEVELOPED_MED_INTENSITY,0,0,"Lin et al., 2019"
+Developed,DEVELOPED_OPEN_SPACE,0,0,"Lin et al., 2019"
+Legumes,DRY_BEANS,50,80,"Mansour et al., 2000"
+Legumes,CHICK_PEAS,50,80,"Mansour et al., 2001"
+Legumes,LENTILS,50,80,"Mansour et al., 2002"
+Legumes,PEAS,50,80,"Mansour et al., 2003"
+Legumes,ALFALFA,0,0,"Jia Jia et al., 2019"
+Legumes,VETCH,0,0,"Hannaway and McGuire, 1982"
+Corn,CORN,40,215,"Hart et al., 2009c"
+Corn,SWEET.CORN,150,200,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Corn,SWEET_CORN,150,200,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Grains,BARLEY,100,230,"Hart et al., 2009a"
+Grains,BUCKWHEAT,100,230,"Hart et al., 2009a"
+Grains,OATS,100,230,"Hart et al., 2009a"
+Grains,SORGHUM,101,146,https://extension.oregonstate.edu/sites/default/files/documents/em8794.pdf
+Grains,RYE,100,230,"Hart et al., 2009a"
+Grains,WINTER_WHEAT,100,230,"Hart et al., 2009a"
+Grains,DBL_CROP_WINWHT_CORN,100,230,"Hart et al., 2009a"
+Grains,SPRING_WHEAT,100,230,"Hart et al., 2009a"
+Grains,TRITICALE,100,230,"Hart et al., 2009a"
+Fallow,FALLOW.IDLE.CROPLAND,0,0,"Jia Jia et al., 2019"
+Fallow,FALLOW_IDLE_CROPLAND,0,0,"Jia Jia et al., 2019"
+Fallow,BARREN,20,40,"Jia Jia et al., 2019"
+Grass_Hay,SOD.GRASS.SEED,107,214,https://agsci.oregonstate.edu/sites/agscid7/files/beaverturf/lawns/more-lawn-care-extension-bulletins/ec1278.pdf
+Grass_Hay,SOD_GRASS_SEED,107,214,https://agsci.oregonstate.edu/sites/agscid7/files/beaverturf/lawns/more-lawn-care-extension-bulletins/ec1278.pdf
+Grass_Hay,GRASSLAND.PASTURE,100,120,"Pirelli et al., 2004"
+Grass_Hay,GRASSLAND_PASTURE,100,120,"Pirelli et al., 2004"
+Grass_Hay,OTHER.HAY.NON.ALFALFA,40,90,"Jia Jia et al., 2019"
+Grass_Hay,OTHER_HAY_NON_ALFALFA,40,90,"Jia Jia et al., 2019"
+Squash,CUCUMBERS,148,247,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Squash,PUMPKINS,148,247,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Squash,SQUASH,148,247,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Mint,MINT,200,250,"Hart et al., 2010"
+Misc,GRAPES,0,6,"Jia Jia et al., 2019"
+Misc,GREENS,0,87,https://extension.oregonstate.edu/sites/default/files/documents/12281/growinglettuceandgreens0.pdf
+Misc,HOPS,100,150,"Gingrich et al., 2000"
+Misc,MISC_VEGS_._FRUITS,0,87,https://extension.oregonstate.edu/sites/default/files/documents/12281/growinglettuceandgreens0.pdf
+Misc,MISC_VEGS___FRUITS ,0,87,https://extension.oregonstate.edu/sites/default/files/documents/12281/growinglettuceandgreens0.pdf
+Misc,POTATOES,150,250,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Misc,PEPPERS,150,200,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Misc,SUGARBEETS,256,400,"Shock et al., 1996"
+Misc,OTHER_CROPS,0,741,
+Misc,GARLIC,150,200,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Misc,ONIONS,100,150,https://extension.oregonstate.edu/catalog/pub/em-9165-nutrient-management-sustainable-vegetable-cropping-systems-western-oregon
+Misc,CLOVER.WILDFLOWER,0,0,https://extension.oregonstate.edu/sites/extd8/files/documents/fg17.pdf
+Misc,CLOVER_WILDFLOWERS,0,0,https://extension.oregonstate.edu/sites/extd8/files/documents/fg17.pdf
+Misc,BROCCOLI,185,741,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,CABBAGE,185,741,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,RADISHES,185,741,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,TURNIPS,185,741,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,MUSTARD,185,741,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,CANOLA,185,741,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,CAULIFLOWER,185,741,https://extension.oregonstate.edu/sites/extd8/files/2023-08/em-9221.pdf
+Misc,CHRISTMAS_TREES,0,150,"Hart et al., 2009b"
+Misc,OTHER_TREE_CROPS,0,150,"Hart et al., 2009b"
+Misc,WALNUTS,108,324,"https://extension.oregonstate.edu/sites/extd8/files/documents/em9080.pdf, https://extension.oregonstate.edu/sites/extd8/files/documents/em9077.pdf"
+Misc,CANEBERRIES,50,70,"Hart et al., 2006a"
+Misc,STRAWBERRIES,25,50,"Hart et al., 2000"
+Misc,CRANBERRIES,140,240,https://extension.oregonstate.edu/sites/extd8/files/documents/em8672.pdf
+Orchard Crops,APPLES,15,50,"Righetti et al., 1998"
+Orchard Crops,CHERRIES,15,50,"Righetti et al., 1998"
+Orchard Crops,PEACHES,15,50,"Righetti et al., 1998"
+Orchard Crops,PEARS,15,50,"Righetti et al., 1998"
+Orchard Crops,PLUMS,15,50,"Righetti et al., 1998"
+Orchard Crops,PRUNES,15,50,"Righetti et al., 1998"
+Wetlands,HERBACEOUS_WETLANDS,0,0,"Jia Jia et al., 2019"
+Wetlands,WETLANDS,0,0,"Jia Jia et al., 2019"
+Wetlands,WOODY_WETLANDS,0,0,"Jia Jia et al., 2019"
+Blueberries,BLUEBERRIES,0,165,"Hart et al., 2006b"
+Open_Water,OPEN_WATER,0,0,"Jia Jia et al., 2019"
